@@ -17,7 +17,7 @@
  * {@see ReturnObject} that will contain either an object or an error
  * value of the right kind (as defined in {@see ErrorMessage}). 
  * 
- * @author PiJ
+ * @author ttadde01
  */
 public interface List {
 	/**

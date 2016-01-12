@@ -12,7 +12,7 @@ public class LinkedList implements List{
 	* @param none
 	*/	
 	 public LinkedList() {
-	  first = null; // first node initialized to null by contractor upon creation
+	  first = null; 
     }
 	
 	

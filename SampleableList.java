@@ -1,7 +1,7 @@
 /**
  * A sampleable list can be sampled. 
  * 
- * @author PiJ
+ * @author ttadde01
  */
 public interface SampleableList extends List {
 	/**

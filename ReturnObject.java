@@ -2,7 +2,7 @@
  * A wrapper containing either an object (the result of an operation
  * on a data structure) or an error value.
  *
- * @author PiJ
+ * @author ttadde01
  */
 public interface ReturnObject {
 	/**
